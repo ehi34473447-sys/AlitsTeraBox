@@ -1,3 +1,3 @@
 FROM xhofe/alist:latest
-EXPOSE 7860
+EXPOSE 5244
 CMD ["/opt/alist/alist", "server", "--no-prefix"]
